@@ -1,0 +1,16 @@
+baseURL: https://flow.salpagarov.com/
+title: Поток сознания
+theme: hugo-flex
+defaultContentLanguage: ru
+menu:
+  main:
+    - name: Рубрики
+      pageRef: /categories
+      weight: 1
+    - name: Метки
+      pageRef: /tags
+      weight: 2
+
+params:
+  color: DarkSlateBlue
+  footer: 
