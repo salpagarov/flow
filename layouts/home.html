@@ -6,7 +6,7 @@
     <ul>
       {{ range .Pages }}
         <li>
-          {{ time.Format "2006-01-02" .PublishDate }} – <a href="{{ .RelPermalink }}">{{ .Title }}</a>
+          <a href="{{ .RelPermalink }}">{{ .Title }}</a>
         </li>
       {{ end }}
     </ul>
