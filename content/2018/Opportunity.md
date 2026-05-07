@@ -1,13 +1,9 @@
 ---
 categories: Календарь
-date: '2018-06-10'
+date: 2018-06-10
 tags:
-- Opportunity
+- Opportunity Rover
 - Mars
 title: My battery is low and it's getting dark
 ---
-
-"Opportunity" Rover
-
 ![](mars.jpg)
-
