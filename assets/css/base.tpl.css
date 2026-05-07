@@ -126,6 +126,10 @@ kbd:has(kbd) {
   padding: 0;
 }
 
+footer .Tags {
+  justify-content: left;
+}
+
 .Tags-item {
   border-radius: 0.2rem;
   margin: 0.2rem;
