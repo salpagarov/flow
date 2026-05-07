@@ -121,7 +121,7 @@ kbd:has(kbd) {
   list-style: none;
   display: flex;
   flex-wrap: wrap;
-  justify-content: space-evenly;
+  justify-content: center;
   margin: 1.5rem 0;
   padding: 0;
 }
