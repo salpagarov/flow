@@ -8,7 +8,7 @@
     {{ range .Pages.ByTitle }}
     {{ if gt (len .Pages) 1 }}
       <li class="Tags-item u-background">
-        <a class="Tags-link u-clickable" href="{{ .RelPermalink }}">{{ .Title }}</a>
+        <a class="Tags-link u-clickable" href="{{ .RelPermalink }}">{{ .Title }}({{len .Pages}})</a>
       </li>
     {{ end }}
     {{ end }}
