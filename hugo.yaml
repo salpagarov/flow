@@ -13,6 +13,6 @@ menu:
 
 params:
   color: DarkSlateBlue
+  width: 56rem
   footer: 
-  width: 56
   
