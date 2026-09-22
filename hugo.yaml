@@ -12,7 +12,7 @@ menu:
       weight: 2
 
 params:
-  color: DarkSlateBlue
+  color: #536F6C
   width: 60rem
   footer: 
   
