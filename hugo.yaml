@@ -12,7 +12,7 @@ menu:
       weight: 2
 
 params:
-  color: #536F6C
+  color: "#536F6C"
   width: 60rem
   footer: 
   
