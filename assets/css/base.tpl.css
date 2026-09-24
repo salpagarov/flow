@@ -189,3 +189,7 @@ footer .Tags {
 .u-noboosting {
   max-height: 1000000px;
 }
+
+li a {
+  color: #8FBC8F;
+}
