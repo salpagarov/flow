@@ -11,6 +11,7 @@ body {
 
 main {
   flex-grow: 1;
+  background-color: #1A1C1A;
 }
 
 img {
@@ -190,6 +191,15 @@ footer .Tags {
   max-height: 1000000px;
 }
 
-li a {
+.u-padding {
+  color: #E8E6E3;
+}
+
+.u-padding a {
   color: #8FBC8F;
 }
+
+.u-padding a:visited {
+  color: #C2B280;
+}
+
