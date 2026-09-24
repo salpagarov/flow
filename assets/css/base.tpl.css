@@ -195,11 +195,11 @@ footer .Tags {
   color: #E8E6E3;
 }
 
-.u-padding a {
+.u-padding li a {
   color: #8FBC8F;
 }
 
-.u-padding a:visited {
+.u-padding li a:visited {
   color: #C2B280;
 }
 
