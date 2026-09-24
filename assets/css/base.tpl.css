@@ -11,7 +11,6 @@ body {
 
 main {
   flex-grow: 1;
-  background-color: #1A1C1A;
 }
 
 img {
@@ -186,20 +185,3 @@ footer .Tags {
   text-decoration: none;
   display: inline-block;
 }
-
-.u-noboosting {
-  max-height: 1000000px;
-}
-
-.u-padding {
-  color: #E8E6E3;
-}
-
-.u-padding li a {
-  color: #8FBC8F;
-}
-
-.u-padding li a:visited {
-  color: #C2B280;
-}
-
