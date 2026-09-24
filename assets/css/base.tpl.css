@@ -185,3 +185,12 @@ footer .Tags {
   text-decoration: none;
   display: inline-block;
 }
+
+a {
+    color: #ffffff !important;
+    text-decoration: underline;
+}
+
+a:visited {
+    color: #b1b1b1 !important;
+}
