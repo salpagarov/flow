@@ -4,7 +4,6 @@ categories:
 date: '2020-08-13'
 tags:
 - Arkane Studios
-- Cry Engine
 - Mick Gordon
 title: Prey
 ---

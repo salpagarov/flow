@@ -3,7 +3,7 @@ categories: Игры
 date: '2020-08-10'
 tags:
 - Dishonored
-- Arcane Studios
+- Arkane Studios
 title: Dishonored
 ---
 

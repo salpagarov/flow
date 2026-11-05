@@ -2,8 +2,6 @@
 categories:
 - Игры
 date: '2024-04-17'
-tags:
-- Пьяные тексты
 title: Black Mesa
 ---
 

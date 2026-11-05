@@ -2,6 +2,8 @@
 categories: Автомобильное
 date: '2013-09-07'
 title: SubaFest'13
+tags:
+- Subaru
 ---
 
 ![](subafest13.jpg)

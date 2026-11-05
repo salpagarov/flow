@@ -2,6 +2,8 @@
 categories: Автомобильное
 date: '2012-12-02'
 title: Subaru Sol
+tags:
+- Subaru
 ---
 
 Услышал на парковке:  

@@ -2,7 +2,7 @@
 categories: Игры
 date: '2007-05-08'
 tags:
-- Arcane Studios
+- Arkane Studios
 title: Dark Messiah Might and Magic
 ---
 
