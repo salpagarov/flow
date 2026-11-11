@@ -11,9 +11,6 @@
       {{ range .Pages }}
         <li>
           <a href="{{ .RelPermalink }}">{{ .Title }}</a>
-          {{ if .Params.lastmod }}
-          <small>(Изменено: {{ .Lastmod | time.Format "02.01.2006" }})</small>
-          {{ end }}          
         </li>
       {{ end }}
     </ul>
