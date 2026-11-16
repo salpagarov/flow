@@ -1,4 +1,5 @@
 ---
+date: 2026-11-16
 title: Steam
 categories: Сверхновая история
 tags:
