@@ -1,6 +1,6 @@
 ---
 date: 2026-11-18
-title: AI free
+title: AI-free
 categories: Сверхновая история
 tags:
   - AI
